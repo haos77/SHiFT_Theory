@@ -8,6 +8,8 @@ This repository contains the formal written documentation for SHiFT (Surface Hel
 ## Files
 - `SHIFT_Theory_EN.pdf` — English version
 - `Teoria_SHIFT_IT.pdf` — Italian version
+- `Critical Gravitational Density.pdf` — English version
+- `Densita Critica Gravitazionale.pdf` — Italian version
 - `LICENSE.md` — CC BY 4.0 License
 - `README.md` — This file
 
